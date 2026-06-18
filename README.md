@@ -26,14 +26,41 @@ When a user submitted credentials through the cloned page, the information was c
 ## Attack Workflow
 
 1. Launch SET.
+   
+   ![setoolkit](screenshots/setoolkit.png)
+   
 2. Select Social Engineering Attacks.
+   
+   ![social_engineering_attacks](screenshots/social_engineering_attacks.png)
+   
 3. Select Website Attack Vectors.
+   
+   ![website_attack_vectors](screenshots/website_attack_vectors.png)
+  
 4. Select Credential Harvester Attack Method.
+   
+   ![harvester_attack_vectors](screenshots/harvester_attack_vectors.png)
+   
 5. Select Site Cloner.
+    
+   ![site_cloner](screenshots/site_cloner.png)
+   
 6. Configure target URL and attacker IP.
+    
+    ![site_cloner_data_input](screenshots/site_cloner_data_input.png)
+    
 7. Generate phishing page.
+    
+    ![cloned_site](screenshots/cloned_site.png)
+    
 8. Capture submitted credentials.
+    
+    ![credential_harvester](screenshots/credential_harvester.png)
+    
 9. Redirect victim to the legitimate website.
+    
+    ![site_comparison](screenshots/site_comparison.png)
+    
 
 ## Security Risks
 
